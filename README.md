@@ -19,7 +19,7 @@ SHAKTI ingests sensor, log, and operational-state telemetry from infrastructure 
 
 ## 1 — Install Dependencies
 
-Open a terminal in the project root (`d:\project\Shakti`) and run:
+Open a terminal in the project root and run:
 
 ```bash
 pip install -r requirements.txt
